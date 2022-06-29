@@ -10,4 +10,6 @@ pip install pyttsx3 #for speak file
 
 pip install SpeechRecognition #for speechrecognitiion file
 
+Download this file and make folder past files Run.
+
 #coding #programming #python #c #c++ #artificialinrelligiance #robotics #IT #ruby #java #javascript #universe #solarsystem
