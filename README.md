@@ -1,4 +1,4 @@
-# SolarBodiesName
+# SolarBodiesName.py
 
 Do you know solarbodies name ?? then run. this file 
 
