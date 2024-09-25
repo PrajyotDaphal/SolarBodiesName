@@ -1,5 +1,5 @@
-from speak import *
-from SpeechRecognition import *
+from Extention.speak import *
+from Extention.SpeechRecognition import *
 from SolarBodieName import *
 
 if __name__ == "__main__":

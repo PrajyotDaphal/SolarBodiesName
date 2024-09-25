@@ -1,0 +1,5 @@
+pip install requests #for SolarBodiesName file
+
+pip install pyttsx3 #for speak file
+
+pip install SpeechRecognition #for speechrecognitiion file
